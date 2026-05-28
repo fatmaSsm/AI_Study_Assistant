@@ -140,7 +140,7 @@ Feel free to fork the project and submit a pull request.
 
 # 📜 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
