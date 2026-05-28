@@ -105,18 +105,6 @@ Your API key is stored locally on your machine.
 
 ---
 
-# 📸 Screenshots
-
-You can add screenshots here later:
-
-* Main Interface
-* Summary Panel
-* Keyword Extraction
-* Quiz System
-* Language Switching
-
----
-
 # 🧠 How It Works
 
 The application sends the user’s text to Gemini API and uses:
@@ -126,19 +114,6 @@ The application sends the user’s text to Gemini API and uses:
 * Schema validation with Pydantic
 
 Quiz and keyword outputs are validated before being displayed in the interface.
-
----
-
-# 📁 Project Structure
-
-```bash
-smart-study-assistant/
-│
-├── main.py
-├── README.md
-├── .gitignore
-└── requirements.txt
-```
 
 ---
 
