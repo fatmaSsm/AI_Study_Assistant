@@ -31,7 +31,7 @@ Create 5 multiple-choice questions based on the provided text to test understand
 Supports:
 
 * Turkish 🇹🇷
-* English 🇬🇧
+* English 🇺🇸
 
 Users can instantly switch languages from the interface.
 
@@ -53,7 +53,7 @@ Built with:
 
 ## 🔒 Secure API Key Handling
 
-API keys are stored locally in a configuration file instead of being hardcoded into the project.
+API keys are stored locally in a configuration file (`~/.ai_study_config.json`) instead of being hardcoded into the project.
 
 ---
 
@@ -61,8 +61,8 @@ API keys are stored locally in a configuration file instead of being hardcoded i
 
 * Python
 * CustomTkinter
-* Google Gemini API
-* Pydantic
+* Google Gemini API (`gemini-2.5-flash`)
+* Pydantic (Structured JSON Outputs)
 * Threading
 * JSON
 
