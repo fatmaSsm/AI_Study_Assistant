@@ -2,7 +2,7 @@
 
 An AI-powered desktop study assistant built with Python, CustomTkinter, and Google Gemini API.
 
-Smart Study Assistant helps users analyze educational texts by generating:
+AI Study Assistant helps users analyze educational texts by generating:
 
 * 📄 Clear summaries
 * 🔑 Important keywords
