@@ -86,7 +86,7 @@ pip install customtkinter google-genai pydantic
 ## 3. Run the Application
 
 ```bash
-python main.py
+python AI_Study_Assistant.py
 ```
 
 ---
