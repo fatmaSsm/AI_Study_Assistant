@@ -73,8 +73,8 @@ API keys are stored locally in a configuration file instead of being hardcoded i
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-study-assistant.git
-cd smart-study-assistant
+git clone https://github.com/fatmaSsm/AI_Study_Assistant.git
+cd AI_Study_Assistant
 ```
 
 ## 2. Install Dependencies
