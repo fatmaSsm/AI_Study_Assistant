@@ -2,6 +2,10 @@
 
 An AI-powered desktop study assistant built with Python, CustomTkinter, and Google Gemini API.
 
+<p align="center">
+  <img src="AI_Study_Assistant_ss.png">
+</p> 
+
 AI Study Assistant helps users analyze educational texts by generating:
 
 * 📄 Clear summaries
